@@ -1,2 +1,1 @@
-# try_git
-This is a test
+This is my test readme file.
